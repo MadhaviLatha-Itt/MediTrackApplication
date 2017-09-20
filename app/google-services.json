@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "406187093446",
+    "project_id": "firebase-signings"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406187093446:android:5f95e8dd0aac05fe",
+        "android_client_info": {
+          "package_name": "com.example.madhavilatha.meditrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406187093446-ssir5qe2i5vgdm95bbv2gdq5m24gll63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.madhavilatha.meditrack",
+            "certificate_hash": "dd12642a7edb75001f857f0b707d56de88ff7c64"
+          }
+        },
+        {
+          "client_id": "406187093446-hnphic0macule64ei1vmtq9q398s406c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW1wpt0OG36rYVzvqtFWfuCCHvwuD3IP0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
